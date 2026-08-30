@@ -41,7 +41,7 @@ import pandas as pd
 
 from predict import predict_risk
 
-CSV_PATH = "wb_land_acquisition.csv"
+CSV_PATH = "data/wb_land_acquisition.csv"
 OUT_PATH = "data/projects_store.json"
 
 # Approximate district centroids (West Bengal). Used only to place a pin
