@@ -1,0 +1,8 @@
+{
+  "name": "LandIntel",
+  "description": "Land Acquisition Intelligence & Project Risk Assessment Platform for Smart India Hackathon",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

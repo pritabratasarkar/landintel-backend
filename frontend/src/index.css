@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* 
+ * LandIntel System Themes (SIH Problem Statement 26017)
+ * High-contrast, accessibility-compliant Light & Dark palettes
+ */
+
+:root {
+  --app-bg: #f8fafc;
+  --panel-bg: #ffffff;
+  --panel-bg-secondary: #f1f5f9;
+  --panel-bg-tertiary: #e2e8f0;
+  --border-color: #e2e8f0;
+  --border-color-hover: #cbd5e1;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --input-bg: #ffffff;
+  --input-border: #cbd5e1;
+  --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08), 0 1px 2px -1px rgba(0, 0, 0, 0.05);
+  --map-bg: #e2e8f0;
+}
+
+html.dark {
+  --app-bg: #020617;
+  --panel-bg: #0f172a;
+  --panel-bg-secondary: #090d16;
+  --panel-bg-tertiary: #1e293b;
+  --border-color: #1e293b;
+  --border-color-hover: #334155;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --input-bg: #1e293b;
+  --input-border: #334155;
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -2px rgba(0, 0, 0, 0.3);
+  /* The geographic map basemap must remain clean and light in both Day and Night modes */
+  --map-bg: #e2e8f0;
+}
+
+/* Global resets for full-viewport GIS applet */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--app-bg);
+  color: var(--text-primary);
+}
+
+/* Leaflet Container & Dynamic Theme Background */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  background-color: var(--map-bg) !important;
+  font-family: inherit;
+  outline: none;
+}
+
+/* Leaflet Tooltips & Popups Styling */
+.leaflet-popup-content-wrapper {
+  background: var(--panel-bg) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 12px !important;
+  box-shadow: var(--card-shadow) !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-tip {
+  background: var(--panel-bg) !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: inherit !important;
+}
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.35);
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.65);
+}
+
+/* Bottom-Left Map Scale & Live Coordinate Display Layout */
+.leaflet-bottom.leaflet-left {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin-bottom: 12px !important;
+  margin-left: 12px !important;
+  pointer-events: auto !important;
+}
+
+.leaflet-bottom.leaflet-left .leaflet-control {
+  margin: 0 !important;
+}
+
+.leaflet-control-scale-line {
+  border: 2px solid #475569 !important;
+  border-top: none !important;
+  line-height: 1.1 !important;
+  padding: 2px 6px !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  white-space: nowrap !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  backdrop-filter: blur(4px) !important;
+  color: #1e293b !important;
+  border-radius: 0 0 4px 4px !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12) !important;
+}
+
+.dark .leaflet-control-scale-line {
+  background: rgba(15, 23, 42, 0.9) !important;
+  color: #e2e8f0 !important;
+  border-color: #64748b !important;
+}
+
+.dark #leaflet-live-coords {
+  background: rgba(15, 23, 42, 0.9) !important;
+  color: #e2e8f0 !important;
+  border-color: #334155 !important;
+}
+
+
+/* Custom Marker Styling */
+.custom-risk-marker {
+  background: transparent;
+  border: none;
+}
+
+.custom-cluster-marker {
+  background: transparent;
+  border: none;
+}
