@@ -1,0 +1,251 @@
+project_id,state,district,project_type,land_type,land_area_hectares,affected_families,notification_date,approval_expected_days,approval_actual_days,approval_date,compensation_status,compensation_delay_days,legal_disputes_count,documentation_completeness_pct,rehab_status,rehab_progress_pct,stakeholder_responsiveness_score,delayed
+WB-AUD-0001,West Bengal,Howrah,HIGHWAY,Agricultural,21.79,75,2025-07-17,241,211,2026-02-13,Not Started,82,3,71,In Progress,72,7.2,0
+WB-AUD-0002,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,3.38,36,2023-09-11,188,120,2024-01-09,In Progress,23,1,77,In Progress,68,9.7,0
+WB-AUD-0003,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Urban,2.81,35,2024-01-14,123,211,2024-08-12,Not Started,109,3,53,In Progress,74,5.5,1
+WB-AUD-0004,West Bengal,Howrah,INDUSTRIAL_PARK,Agricultural,5.12,39,2022-03-05,119,380,2023-03-20,Not Started,106,4,95,In Progress,59,5.9,1
+WB-AUD-0005,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,2.01,31,2023-05-15,181,447,2024-08-04,Not Started,91,4,65,In Progress,62,4.1,1
+WB-AUD-0006,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Agricultural,15.88,64,2025-03-08,222,214,2025-10-08,In Progress,30,0,45,In Progress,75,3.8,0
+WB-AUD-0007,West Bengal,North 24 Parganas,OTHER,Agricultural,17.26,53,2022-06-13,184,132,2022-10-23,In Progress,18,1,85,In Progress,48,6.3,0
+WB-AUD-0008,West Bengal,Howrah,HIGHWAY,Agricultural,46.62,172,2025-07-11,177,101,2025-10-20,In Progress,16,2,75,In Progress,57,8.1,0
+WB-AUD-0009,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,5.72,41,2025-08-23,103,214,2026-03-25,Not Started,98,4,100,In Progress,55,3.3,1
+WB-AUD-0010,West Bengal,Hooghly,RAILWAY,Agricultural,1.08,14,2023-02-19,229,224,2023-10-01,In Progress,10,1,100,In Progress,54,5.0,0
+WB-AUD-0011,West Bengal,North 24 Parganas,POWER,Agricultural,2.62,35,2024-05-25,281,530,2025-11-06,In Progress,25,1,61,In Progress,65,3.6,1
+WB-AUD-0012,West Bengal,Hooghly,POWER,Agricultural,33.18,115,2023-11-29,168,317,2024-10-11,Not Started,119,3,78,In Progress,58,8.1,1
+WB-AUD-0013,West Bengal,Hooghly,URBAN_DEVELOPMENT,Mixed,15.48,43,2023-01-26,148,146,2023-06-21,In Progress,16,1,82,In Progress,54,4.3,0
+WB-AUD-0014,West Bengal,Howrah,INDUSTRIAL,Urban,4.23,13,2024-05-14,229,161,2024-10-22,Disputed,58,2,93,In Progress,76,5.9,0
+WB-AUD-0015,West Bengal,Hooghly,INFRASTRUCTURE,Wetland,5.31,40,2022-01-31,230,430,2023-04-06,Not Started,103,5,60,Not Started,6,3.5,1
+WB-AUD-0016,West Bengal,North 24 Parganas,INDUSTRIAL,Agricultural,208.69,581,2023-09-01,120,115,2023-12-25,In Progress,49,1,99,In Progress,74,7.2,0
+WB-AUD-0017,West Bengal,Kolkata,RAILWAY,Urban,9.65,56,2023-06-25,297,277,2024-03-28,Not Started,101,1,72,In Progress,76,5.7,0
+WB-AUD-0018,West Bengal,North 24 Parganas,INFRASTRUCTURE,Urban,29.07,88,2025-09-23,280,315,2026-08-04,Not Started,115,4,54,Not Started,0,4.3,1
+WB-AUD-0019,West Bengal,North 24 Parganas,RAILWAY,Mixed,10.77,42,2023-09-15,245,514,2025-02-10,Not Started,97,4,71,In Progress,69,6.9,1
+WB-AUD-0020,West Bengal,South 24 Parganas,INFRASTRUCTURE,Mixed,23.06,70,2024-05-05,271,269,2025-01-29,Not Started,57,1,73,In Progress,76,9.1,0
+WB-AUD-0021,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,3.31,38,2024-09-30,100,329,2025-08-25,Not Started,87,3,76,Not Started,13,5.3,1
+WB-AUD-0022,West Bengal,Kolkata,RAILWAY,Agricultural,19.56,67,2025-05-26,160,119,2025-09-22,Not Started,55,2,75,In Progress,84,5.2,0
+WB-AUD-0023,West Bengal,North 24 Parganas,INDUSTRIAL_PARK,Agricultural,2.87,17,2023-10-02,227,180,2024-03-30,Completed,0,2,85,Completed,100,5.1,0
+WB-AUD-0024,West Bengal,Kolkata,HIGHWAY,Agricultural,1.75,39,2022-01-21,153,386,2023-02-11,Not Started,80,1,80,In Progress,76,1.7,1
+WB-AUD-0025,West Bengal,Hooghly,INDUSTRIAL_PARK,Agricultural,17.71,71,2023-02-14,185,113,2023-06-07,Not Started,103,3,75,Not Started,29,4.9,0
+WB-AUD-0026,West Bengal,Kolkata,INDUSTRIAL,Wetland,9.28,35,2024-01-30,98,160,2024-07-08,Not Started,79,3,59,Not Started,34,3.6,1
+WB-AUD-0027,West Bengal,Hooghly,INFRASTRUCTURE,Urban,2.23,23,2022-06-05,252,287,2023-03-19,Not Started,83,4,54,In Progress,84,7.2,1
+WB-AUD-0028,West Bengal,Hooghly,RAILWAY,Agricultural,11.04,38,2026-07-13,118,108,2026-10-29,Not Started,66,2,74,Not Started,28,5.5,0
+WB-AUD-0029,West Bengal,Kolkata,HIGHWAY,Mixed,26.36,98,2025-04-08,205,406,2026-05-19,Not Started,153,3,74,Completed,90,5.2,1
+WB-AUD-0030,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,3.01,27,2023-10-15,194,148,2024-03-11,In Progress,30,0,81,In Progress,83,8.2,0
+WB-AUD-0031,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,5.02,20,2024-10-18,231,282,2025-07-27,Not Started,161,6,30,In Progress,51,4.3,1
+WB-AUD-0032,West Bengal,North 24 Parganas,POWER,Wetland,2.42,9,2025-12-04,172,261,2026-08-22,Disputed,79,3,95,Not Started,29,3.5,1
+WB-AUD-0033,West Bengal,South 24 Parganas,INFRASTRUCTURE,Urban,1.06,34,2025-07-20,219,384,2026-08-08,Not Started,141,3,55,In Progress,53,5.7,1
+WB-AUD-0034,West Bengal,Hooghly,HIGHWAY,Mixed,4.09,8,2026-08-24,283,224,2027-04-05,In Progress,31,1,72,In Progress,58,7.2,0
+WB-AUD-0035,West Bengal,North 24 Parganas,INFRASTRUCTURE,Urban,9.99,54,2026-07-28,259,375,2027-08-07,Not Started,80,6,91,In Progress,69,7.7,1
+WB-AUD-0036,West Bengal,Hooghly,HIGHWAY,Agricultural,1.11,27,2025-01-09,107,375,2026-01-19,Disputed,126,3,61,In Progress,54,2.1,1
+WB-AUD-0037,West Bengal,Howrah,POWER,Agricultural,16.79,37,2024-11-23,139,59,2025-01-21,In Progress,54,2,72,Completed,90,4.5,0
+WB-AUD-0038,West Bengal,Hooghly,HIGHWAY,Agricultural,4.64,40,2022-07-14,147,85,2022-10-07,Completed,0,1,68,Completed,86,6.8,0
+WB-AUD-0039,West Bengal,North 24 Parganas,HIGHWAY,Urban,14.99,61,2026-04-06,136,100,2026-07-15,In Progress,45,1,69,In Progress,52,6.9,0
+WB-AUD-0040,West Bengal,North 24 Parganas,HIGHWAY,Wetland,7.24,36,2023-08-13,279,529,2025-01-23,Not Started,202,6,44,Completed,88,1.7,1
+WB-AUD-0041,West Bengal,Howrah,INDUSTRIAL,Mixed,15.16,57,2024-08-13,157,369,2025-08-17,Disputed,93,3,64,Delayed,0,1.1,1
+WB-AUD-0042,West Bengal,South 24 Parganas,HIGHWAY,Urban,2.26,12,2026-03-07,237,397,2027-04-08,Not Started,85,2,57,In Progress,63,5.5,1
+WB-AUD-0043,West Bengal,South 24 Parganas,HIGHWAY,Mixed,4.94,25,2023-07-03,216,181,2023-12-31,In Progress,33,2,48,In Progress,43,6.9,0
+WB-AUD-0044,West Bengal,Kolkata,RAILWAY,Urban,10.17,39,2022-06-01,210,143,2022-10-22,Not Started,98,1,55,In Progress,65,7.5,0
+WB-AUD-0045,West Bengal,North 24 Parganas,POWER,Mixed,77.95,265,2025-09-20,113,68,2025-11-27,Completed,0,2,91,In Progress,77,6.1,0
+WB-AUD-0046,West Bengal,Howrah,INDUSTRIAL_PARK,Agricultural,35.27,139,2023-02-06,116,192,2023-08-17,Disputed,78,2,75,Completed,96,3.2,1
+WB-AUD-0047,West Bengal,Kolkata,POWER,Agricultural,5.85,40,2022-03-27,184,104,2022-07-09,Not Started,83,2,80,In Progress,79,7.3,0
+WB-AUD-0048,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,32.47,116,2025-05-04,297,345,2026-04-14,Not Started,55,1,66,In Progress,51,4.8,1
+WB-AUD-0049,West Bengal,North 24 Parganas,INDUSTRIAL_PARK,Urban,1.99,33,2025-12-31,297,501,2027-05-16,In Progress,14,4,53,In Progress,68,7.0,1
+WB-AUD-0050,West Bengal,Kolkata,POWER,Agricultural,2.64,32,2024-01-03,246,440,2025-03-18,Not Started,184,4,66,In Progress,39,5.5,1
+WB-AUD-0051,West Bengal,Hooghly,HIGHWAY,Urban,7.66,30,2022-10-04,154,107,2023-01-19,Not Started,82,2,41,In Progress,81,5.4,0
+WB-AUD-0052,West Bengal,South 24 Parganas,HIGHWAY,Urban,10.18,50,2023-02-21,227,223,2023-10-02,In Progress,34,0,41,In Progress,71,6.2,0
+WB-AUD-0053,West Bengal,Hooghly,OTHER,Wetland,1.92,32,2023-06-02,136,290,2024-03-18,Not Started,164,4,31,Not Started,32,4.2,1
+WB-AUD-0054,West Bengal,South 24 Parganas,INDUSTRIAL,Agricultural,45.9,178,2023-01-31,279,533,2024-07-17,Not Started,81,2,51,Completed,87,6.2,1
+WB-AUD-0055,West Bengal,Hooghly,HIGHWAY,Agricultural,35.44,99,2026-05-18,105,195,2026-11-29,Not Started,85,3,62,In Progress,66,4.7,1
+WB-AUD-0056,West Bengal,Hooghly,URBAN_DEVELOPMENT,Agricultural,1.97,33,2023-10-09,115,59,2023-12-07,In Progress,41,2,75,In Progress,72,6.0,0
+WB-AUD-0057,West Bengal,Hooghly,INDUSTRIAL,Mixed,12.42,64,2022-03-27,286,217,2022-10-30,In Progress,44,3,64,In Progress,56,5.4,0
+WB-AUD-0058,West Bengal,Hooghly,HIGHWAY,Urban,21.39,64,2025-08-31,223,492,2027-01-05,In Progress,41,3,75,In Progress,65,4.4,1
+WB-AUD-0059,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Agricultural,11.37,51,2026-08-14,185,144,2027-01-05,In Progress,49,2,64,In Progress,78,7.9,0
+WB-AUD-0060,West Bengal,South 24 Parganas,POWER,Mixed,6.9,33,2024-02-29,182,157,2024-08-04,Completed,8,0,72,Completed,93,7.4,0
+WB-AUD-0061,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Agricultural,1.1,12,2022-08-08,273,217,2023-03-13,Completed,4,3,66,In Progress,53,6.3,0
+WB-AUD-0062,West Bengal,North 24 Parganas,INFRASTRUCTURE,Mixed,28.96,92,2024-07-14,94,246,2025-03-17,Not Started,122,5,63,In Progress,36,6.2,1
+WB-AUD-0063,West Bengal,Hooghly,OTHER,Agricultural,12.22,47,2025-07-20,112,299,2026-05-15,Not Started,82,2,49,Completed,96,5.7,1
+WB-AUD-0064,West Bengal,Hooghly,URBAN_DEVELOPMENT,Urban,2.15,20,2024-10-25,114,330,2025-09-20,Not Started,136,2,68,Completed,100,7.9,1
+WB-AUD-0065,West Bengal,Kolkata,INDUSTRIAL,Urban,8.39,49,2025-11-16,211,419,2027-01-09,Not Started,130,6,67,In Progress,79,6.9,1
+WB-AUD-0066,West Bengal,South 24 Parganas,RAILWAY,Agricultural,2.09,18,2023-11-02,157,248,2024-07-07,Not Started,109,3,95,In Progress,76,5.3,1
+WB-AUD-0067,West Bengal,Kolkata,RAILWAY,Mixed,5.63,21,2022-09-07,103,322,2023-07-26,Not Started,105,2,57,In Progress,63,5.2,1
+WB-AUD-0068,West Bengal,Howrah,HIGHWAY,Mixed,0.74,32,2026-06-24,115,72,2026-09-04,In Progress,41,1,79,Completed,95,7.7,0
+WB-AUD-0069,West Bengal,Howrah,HIGHWAY,Mixed,7.4,31,2025-01-20,289,552,2026-07-26,Not Started,84,4,47,In Progress,48,4.1,1
+WB-AUD-0070,West Bengal,Howrah,POWER,Agricultural,8.77,31,2022-10-04,156,103,2023-01-15,Completed,0,1,85,In Progress,71,5.8,0
+WB-AUD-0071,West Bengal,North 24 Parganas,POWER,Mixed,23.54,97,2023-01-01,190,443,2024-03-19,Not Started,78,2,52,In Progress,54,3.1,1
+WB-AUD-0072,West Bengal,North 24 Parganas,HIGHWAY,Urban,101.89,310,2023-12-13,133,408,2025-01-24,Completed,7,1,69,Delayed,11,3.4,1
+WB-AUD-0073,West Bengal,Howrah,INDUSTRIAL,Agricultural,18.17,38,2023-07-05,188,467,2024-10-14,Not Started,84,3,80,In Progress,69,5.3,1
+WB-AUD-0074,West Bengal,North 24 Parganas,RAILWAY,Agricultural,2.34,37,2024-01-18,181,121,2024-05-18,Not Started,60,4,73,In Progress,45,7.5,0
+WB-AUD-0075,West Bengal,North 24 Parganas,HIGHWAY,Urban,4.24,40,2022-12-31,254,434,2024-03-09,Not Started,127,4,71,In Progress,70,7.6,1
+WB-AUD-0076,West Bengal,Kolkata,RAILWAY,Agricultural,11.23,57,2022-12-12,188,179,2023-06-09,Not Started,73,3,72,In Progress,54,6.6,0
+WB-AUD-0077,West Bengal,South 24 Parganas,OTHER,Wetland,3.45,35,2026-02-01,212,339,2027-01-06,Not Started,136,6,31,Not Started,26,3.5,1
+WB-AUD-0078,West Bengal,Hooghly,RAILWAY,Agricultural,1.34,23,2024-12-01,231,193,2025-06-12,In Progress,44,1,71,In Progress,38,7.6,0
+WB-AUD-0079,West Bengal,North 24 Parganas,HIGHWAY,Urban,20.25,71,2026-07-15,141,367,2027-07-17,In Progress,53,3,82,In Progress,47,5.9,1
+WB-AUD-0080,West Bengal,Kolkata,INDUSTRIAL_PARK,Mixed,6.52,27,2023-04-26,102,55,2023-06-20,In Progress,34,1,100,In Progress,70,4.9,0
+WB-AUD-0081,West Bengal,Kolkata,OTHER,Mixed,4.77,49,2025-09-14,153,293,2026-07-04,Disputed,149,5,74,Not Started,14,1.3,1
+WB-AUD-0082,West Bengal,Hooghly,INFRASTRUCTURE,Urban,12.57,48,2025-02-03,287,276,2025-11-06,In Progress,40,1,49,In Progress,54,5.5,0
+WB-AUD-0083,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,13.33,65,2026-01-09,221,164,2026-06-22,In Progress,49,0,93,Completed,100,10.0,0
+WB-AUD-0084,West Bengal,Howrah,INFRASTRUCTURE,Urban,37.02,144,2022-10-03,181,319,2023-08-18,In Progress,42,3,86,In Progress,69,3.6,1
+WB-AUD-0085,West Bengal,South 24 Parganas,OTHER,Mixed,26.82,100,2024-10-05,140,138,2025-02-20,Not Started,65,0,69,In Progress,71,10.0,0
+WB-AUD-0086,West Bengal,Hooghly,INDUSTRIAL_PARK,Agricultural,39.94,130,2025-08-02,223,200,2026-02-18,Not Started,85,4,100,In Progress,38,6.6,0
+WB-AUD-0087,West Bengal,Howrah,RAILWAY,Urban,7.28,20,2026-06-14,259,188,2026-12-19,In Progress,43,3,99,Completed,91,6.5,0
+WB-AUD-0088,West Bengal,Kolkata,URBAN_DEVELOPMENT,Mixed,7.2,26,2022-09-11,104,164,2023-02-22,Not Started,119,5,54,In Progress,66,6.8,1
+WB-AUD-0089,West Bengal,Howrah,HIGHWAY,Urban,7.99,48,2023-09-20,280,412,2024-11-05,Disputed,190,8,75,Not Started,0,5.3,1
+WB-AUD-0090,West Bengal,South 24 Parganas,INFRASTRUCTURE,Agricultural,74.45,217,2022-04-27,268,427,2023-06-28,Not Started,126,3,57,Not Started,18,5.0,1
+WB-AUD-0091,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Urban,3.78,10,2025-03-04,231,225,2025-10-15,Not Started,56,3,84,In Progress,50,3.7,0
+WB-AUD-0092,West Bengal,North 24 Parganas,HIGHWAY,Mixed,7.61,32,2024-09-10,169,156,2025-02-13,Completed,0,1,48,In Progress,81,7.7,0
+WB-AUD-0093,West Bengal,South 24 Parganas,INDUSTRIAL,Urban,6.44,30,2022-11-18,126,392,2023-12-15,Not Started,118,5,64,Not Started,26,5.0,1
+WB-AUD-0094,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Urban,35.23,104,2022-12-26,281,234,2023-08-17,In Progress,40,1,65,In Progress,53,5.8,0
+WB-AUD-0095,West Bengal,North 24 Parganas,POWER,Mixed,3.08,19,2025-08-23,123,106,2025-12-07,In Progress,31,3,75,In Progress,46,7.1,0
+WB-AUD-0096,West Bengal,Kolkata,INDUSTRIAL,Wetland,0.97,15,2022-11-15,201,274,2023-08-16,Not Started,119,3,48,In Progress,76,2.5,1
+WB-AUD-0097,West Bengal,Howrah,POWER,Urban,13.69,67,2022-11-17,161,298,2023-09-11,Not Started,98,5,43,In Progress,54,6.6,1
+WB-AUD-0098,West Bengal,Howrah,HIGHWAY,Wetland,8.63,46,2022-12-19,161,372,2023-12-26,In Progress,53,2,87,In Progress,53,2.8,1
+WB-AUD-0099,West Bengal,Kolkata,HIGHWAY,Agricultural,9.83,54,2022-03-28,165,378,2023-04-10,Not Started,175,4,69,In Progress,55,4.0,1
+WB-AUD-0100,West Bengal,Howrah,INFRASTRUCTURE,Agricultural,9.7,51,2022-04-14,225,304,2023-02-12,Not Started,117,4,88,In Progress,46,3.0,1
+WB-AUD-0101,West Bengal,North 24 Parganas,RAILWAY,Urban,3.45,12,2024-12-08,176,388,2025-12-31,Not Started,95,3,71,In Progress,53,2.7,1
+WB-AUD-0102,West Bengal,North 24 Parganas,POWER,Mixed,15.99,82,2026-02-07,251,506,2027-06-28,Not Started,120,3,64,Completed,92,4.1,1
+WB-AUD-0103,West Bengal,Howrah,RAILWAY,Agricultural,3.02,34,2024-01-30,100,82,2024-04-21,In Progress,34,1,52,In Progress,82,10.0,0
+WB-AUD-0104,West Bengal,South 24 Parganas,INFRASTRUCTURE,Wetland,1.57,22,2026-08-25,245,282,2027-06-03,Disputed,160,6,84,In Progress,54,4.6,1
+WB-AUD-0105,West Bengal,Howrah,INDUSTRIAL,Urban,5.07,16,2023-07-09,173,443,2024-09-24,Not Started,104,3,65,Not Started,15,5.2,1
+WB-AUD-0106,West Bengal,North 24 Parganas,INFRASTRUCTURE,Wetland,21.6,84,2025-05-11,271,432,2026-07-17,Not Started,114,3,84,In Progress,68,6.7,1
+WB-AUD-0107,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,14.37,55,2023-11-26,233,171,2024-05-15,Completed,0,1,57,In Progress,44,7.4,0
+WB-AUD-0108,West Bengal,Howrah,INFRASTRUCTURE,Urban,15.81,62,2026-02-25,148,123,2026-06-28,In Progress,24,0,82,Completed,100,5.0,0
+WB-AUD-0109,West Bengal,South 24 Parganas,HIGHWAY,Mixed,37.5,149,2022-09-13,279,384,2023-10-02,Not Started,128,4,63,In Progress,79,8.1,1
+WB-AUD-0110,West Bengal,Howrah,RAILWAY,Mixed,10.04,38,2024-06-06,261,243,2025-02-04,Completed,0,0,80,Delayed,31,4.8,0
+WB-AUD-0111,West Bengal,South 24 Parganas,HIGHWAY,Urban,2.14,34,2026-04-30,202,185,2026-11-01,In Progress,21,1,81,Completed,88,6.1,0
+WB-AUD-0112,West Bengal,South 24 Parganas,RAILWAY,Agricultural,29.05,90,2024-12-20,210,172,2025-06-10,Completed,0,1,66,Completed,98,7.7,0
+WB-AUD-0113,West Bengal,North 24 Parganas,OTHER,Agricultural,20.01,73,2024-02-28,215,207,2024-09-22,Not Started,57,2,92,In Progress,39,3.4,0
+WB-AUD-0114,West Bengal,Howrah,OTHER,Urban,0.93,40,2023-06-12,105,37,2023-07-19,Not Started,75,2,100,Completed,89,4.3,0
+WB-AUD-0115,West Bengal,Howrah,RAILWAY,Agricultural,3.54,11,2025-03-14,117,76,2025-05-29,In Progress,28,1,75,In Progress,66,7.3,0
+WB-AUD-0116,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,0.84,11,2025-07-24,260,186,2026-01-26,In Progress,29,2,72,In Progress,46,5.9,0
+WB-AUD-0117,West Bengal,Howrah,OTHER,Urban,22.42,97,2025-08-31,195,155,2026-02-02,Not Started,63,1,63,Not Started,34,4.7,0
+WB-AUD-0118,West Bengal,South 24 Parganas,POWER,Mixed,1.73,24,2025-05-19,289,265,2026-02-08,In Progress,50,1,74,In Progress,72,6.9,0
+WB-AUD-0119,West Bengal,North 24 Parganas,INFRASTRUCTURE,Agricultural,1.36,33,2023-10-25,159,118,2024-02-20,In Progress,48,1,92,Completed,92,5.1,0
+WB-AUD-0120,West Bengal,North 24 Parganas,INDUSTRIAL_PARK,Urban,21.35,75,2024-02-22,188,176,2024-08-16,In Progress,35,2,49,In Progress,80,5.7,0
+WB-AUD-0121,West Bengal,Kolkata,URBAN_DEVELOPMENT,Agricultural,7.86,37,2025-04-28,234,168,2025-10-13,In Progress,37,1,99,Completed,98,5.3,0
+WB-AUD-0122,West Bengal,Hooghly,URBAN_DEVELOPMENT,Urban,1.47,36,2025-11-02,96,38,2025-12-10,Completed,0,1,62,In Progress,48,5.9,0
+WB-AUD-0123,West Bengal,Kolkata,URBAN_DEVELOPMENT,Agricultural,23.95,110,2024-06-23,286,353,2025-06-11,Not Started,94,6,79,In Progress,44,2.7,1
+WB-AUD-0124,West Bengal,Howrah,RAILWAY,Agricultural,4.1,22,2023-08-15,110,63,2023-10-17,In Progress,41,1,75,In Progress,84,7.5,0
+WB-AUD-0125,West Bengal,Hooghly,URBAN_DEVELOPMENT,Agricultural,17.96,51,2023-12-12,188,353,2024-11-29,Not Started,59,1,71,In Progress,67,4.9,1
+WB-AUD-0126,West Bengal,Howrah,OTHER,Agricultural,4.93,22,2023-01-21,262,246,2023-09-24,In Progress,30,2,92,In Progress,60,6.2,0
+WB-AUD-0127,West Bengal,Hooghly,RAILWAY,Agricultural,6.87,34,2026-05-12,145,206,2026-12-04,Not Started,57,3,81,In Progress,78,4.2,1
+WB-AUD-0128,West Bengal,South 24 Parganas,OTHER,Urban,187.64,576,2025-03-06,185,406,2026-04-16,Disputed,67,2,67,In Progress,57,6.4,1
+WB-AUD-0129,West Bengal,Howrah,RAILWAY,Wetland,1.0,39,2023-06-29,288,385,2024-07-18,Not Started,56,1,80,Not Started,32,4.1,1
+WB-AUD-0130,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,6.03,27,2023-03-28,293,453,2024-06-23,Not Started,88,2,67,Completed,89,4.7,1
+WB-AUD-0131,West Bengal,South 24 Parganas,RAILWAY,Agricultural,6.6,34,2025-07-06,214,194,2026-01-16,In Progress,47,0,54,Completed,100,6.5,0
+WB-AUD-0132,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Mixed,45.62,151,2024-04-21,277,225,2024-12-02,In Progress,11,1,70,In Progress,44,8.1,0
+WB-AUD-0133,West Bengal,North 24 Parganas,RAILWAY,Agricultural,3.14,36,2024-01-12,109,152,2024-06-12,Not Started,88,4,77,In Progress,71,5.0,1
+WB-AUD-0134,West Bengal,Howrah,INFRASTRUCTURE,Wetland,11.93,33,2025-06-21,106,226,2026-02-02,Not Started,149,3,74,In Progress,72,1.6,1
+WB-AUD-0135,West Bengal,South 24 Parganas,INDUSTRIAL_PARK,Agricultural,101.4,317,2022-10-17,237,193,2023-04-28,In Progress,29,2,91,In Progress,75,10.0,0
+WB-AUD-0136,West Bengal,Kolkata,POWER,Urban,4.48,15,2026-02-16,193,158,2026-07-24,Not Started,69,3,72,In Progress,73,7.6,0
+WB-AUD-0137,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,11.97,55,2023-03-03,272,223,2023-10-12,In Progress,24,2,80,In Progress,44,7.3,0
+WB-AUD-0138,West Bengal,Kolkata,RAILWAY,Agricultural,178.14,502,2023-08-07,249,235,2024-03-29,In Progress,14,0,39,In Progress,74,7.7,0
+WB-AUD-0139,West Bengal,Kolkata,INFRASTRUCTURE,Agricultural,15.1,67,2024-08-02,247,388,2025-08-25,Not Started,133,5,91,In Progress,46,7.1,1
+WB-AUD-0140,West Bengal,Kolkata,URBAN_DEVELOPMENT,Agricultural,46.15,164,2022-06-30,104,324,2023-05-20,Not Started,89,5,60,In Progress,66,5.7,1
+WB-AUD-0141,West Bengal,Howrah,OTHER,Urban,1.1,35,2024-08-29,102,216,2025-04-02,Disputed,83,4,69,In Progress,55,3.5,1
+WB-AUD-0142,West Bengal,Hooghly,INDUSTRIAL_PARK,Urban,45.24,126,2026-03-10,264,334,2027-02-07,In Progress,43,2,93,In Progress,54,1.3,1
+WB-AUD-0143,West Bengal,Kolkata,RAILWAY,Urban,83.34,312,2023-02-04,289,531,2024-07-19,Not Started,96,4,88,In Progress,76,1.8,1
+WB-AUD-0144,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,17.3,62,2022-12-03,97,34,2023-01-06,In Progress,44,3,64,In Progress,52,6.1,0
+WB-AUD-0145,West Bengal,South 24 Parganas,HIGHWAY,Urban,0.82,33,2024-07-21,299,500,2025-12-03,Not Started,108,4,64,In Progress,56,5.4,1
+WB-AUD-0146,West Bengal,Howrah,INDUSTRIAL_PARK,Urban,59.68,188,2022-09-01,169,399,2023-10-05,Not Started,101,3,70,In Progress,75,5.1,1
+WB-AUD-0147,West Bengal,South 24 Parganas,INFRASTRUCTURE,Agricultural,0.59,37,2022-02-12,140,77,2022-04-30,In Progress,47,0,88,Completed,100,8.4,0
+WB-AUD-0148,West Bengal,South 24 Parganas,HIGHWAY,Urban,52.6,174,2023-09-22,205,422,2024-11-17,Not Started,64,2,44,Completed,100,6.5,1
+WB-AUD-0149,West Bengal,Kolkata,HIGHWAY,Mixed,3.96,36,2025-07-29,224,183,2026-01-28,Completed,4,1,69,In Progress,77,4.3,0
+WB-AUD-0150,West Bengal,Hooghly,HIGHWAY,Agricultural,18.28,87,2022-06-23,120,119,2022-10-20,In Progress,45,2,100,Not Started,27,5.3,0
+WB-AUD-0151,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Agricultural,41.0,167,2026-06-20,164,344,2027-05-30,Disputed,136,3,90,Completed,100,6.0,1
+WB-AUD-0152,West Bengal,Howrah,INFRASTRUCTURE,Mixed,2.44,13,2023-10-05,131,230,2024-05-22,Not Started,117,3,87,In Progress,82,5.3,1
+WB-AUD-0153,West Bengal,Hooghly,HIGHWAY,Agricultural,1.16,25,2022-06-30,250,474,2023-10-17,In Progress,43,2,94,In Progress,64,3.9,1
+WB-AUD-0154,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,3.69,16,2023-06-10,212,360,2024-06-04,Not Started,135,3,71,In Progress,42,3.9,1
+WB-AUD-0155,West Bengal,Howrah,URBAN_DEVELOPMENT,Agricultural,7.04,26,2026-08-05,194,121,2026-12-04,Not Started,60,1,83,Completed,90,5.5,0
+WB-AUD-0156,West Bengal,Hooghly,INDUSTRIAL_PARK,Mixed,6.17,41,2024-08-07,225,177,2025-01-31,Not Started,74,1,100,In Progress,78,6.1,0
+WB-AUD-0157,West Bengal,Kolkata,INFRASTRUCTURE,Agricultural,12.39,46,2022-10-13,143,99,2023-01-20,In Progress,41,1,65,In Progress,52,5.4,0
+WB-AUD-0158,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Mixed,5.61,39,2022-06-08,211,471,2023-09-22,Not Started,64,3,43,Delayed,16,3.9,1
+WB-AUD-0159,West Bengal,Howrah,POWER,Urban,6.87,40,2024-06-11,182,144,2024-11-02,Not Started,69,0,58,In Progress,72,4.2,0
+WB-AUD-0160,West Bengal,Hooghly,OTHER,Urban,6.49,45,2023-01-08,249,373,2024-01-16,Disputed,95,2,53,In Progress,68,5.8,1
+WB-AUD-0161,West Bengal,North 24 Parganas,INDUSTRIAL_PARK,Agricultural,4.82,38,2025-11-21,239,362,2026-11-18,Not Started,116,4,53,In Progress,78,3.1,1
+WB-AUD-0162,West Bengal,South 24 Parganas,RAILWAY,Urban,23.87,80,2026-03-17,124,373,2027-03-25,In Progress,15,2,69,In Progress,63,4.8,1
+WB-AUD-0163,West Bengal,South 24 Parganas,OTHER,Mixed,17.51,76,2025-10-13,200,420,2026-12-07,Not Started,86,4,100,In Progress,74,4.5,1
+WB-AUD-0164,West Bengal,South 24 Parganas,HIGHWAY,Urban,3.45,33,2024-09-25,103,174,2025-03-18,Not Started,109,2,73,In Progress,43,4.7,1
+WB-AUD-0165,West Bengal,South 24 Parganas,INDUSTRIAL,Mixed,14.07,58,2022-06-27,177,138,2022-11-12,In Progress,10,3,87,In Progress,84,8.3,0
+WB-AUD-0166,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Mixed,4.0,18,2023-06-10,159,129,2023-10-17,Completed,5,1,85,In Progress,82,7.1,0
+WB-AUD-0167,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,130.06,388,2023-12-16,116,64,2024-02-18,Disputed,92,2,80,Completed,88,5.2,0
+WB-AUD-0168,West Bengal,Howrah,RAILWAY,Agricultural,18.25,65,2025-10-29,141,137,2026-03-15,Disputed,80,0,93,In Progress,81,4.7,0
+WB-AUD-0169,West Bengal,Kolkata,INFRASTRUCTURE,Agricultural,3.0,24,2024-10-07,211,154,2025-03-10,In Progress,39,3,96,In Progress,65,3.2,0
+WB-AUD-0170,West Bengal,North 24 Parganas,INDUSTRIAL,Urban,11.66,39,2024-07-04,258,198,2025-01-18,In Progress,42,2,90,In Progress,67,5.8,0
+WB-AUD-0171,West Bengal,Kolkata,RAILWAY,Urban,3.55,9,2023-03-14,285,372,2024-03-20,In Progress,54,2,84,In Progress,71,4.5,1
+WB-AUD-0172,West Bengal,South 24 Parganas,INDUSTRIAL,Agricultural,4.23,30,2025-06-18,110,98,2025-09-24,Not Started,63,0,97,In Progress,83,4.4,0
+WB-AUD-0173,West Bengal,Howrah,POWER,Mixed,18.56,81,2025-01-18,118,68,2025-03-27,Completed,0,0,85,Not Started,29,8.1,0
+WB-AUD-0174,West Bengal,Howrah,INFRASTRUCTURE,Urban,31.66,108,2023-06-24,277,372,2024-06-30,Not Started,75,4,75,Not Started,10,6.2,1
+WB-AUD-0175,West Bengal,Kolkata,URBAN_DEVELOPMENT,Agricultural,1.72,20,2022-04-20,168,434,2023-06-28,Not Started,83,3,46,In Progress,51,7.0,1
+WB-AUD-0176,West Bengal,South 24 Parganas,INDUSTRIAL,Wetland,3.0,12,2022-02-13,255,479,2023-06-07,Not Started,128,3,50,Completed,95,5.5,1
+WB-AUD-0177,West Bengal,North 24 Parganas,HIGHWAY,Mixed,1.84,21,2022-01-28,202,471,2023-05-14,Disputed,142,5,83,In Progress,49,4.0,1
+WB-AUD-0178,West Bengal,Howrah,HIGHWAY,Urban,3.58,38,2023-03-27,107,64,2023-05-30,Completed,0,1,69,In Progress,54,7.2,0
+WB-AUD-0179,West Bengal,Howrah,INDUSTRIAL_PARK,Mixed,11.14,41,2025-04-23,215,139,2025-09-09,In Progress,52,1,92,In Progress,67,5.0,0
+WB-AUD-0180,West Bengal,North 24 Parganas,HIGHWAY,Mixed,23.23,80,2023-03-07,117,151,2023-08-05,Not Started,118,3,64,Completed,100,4.6,1
+WB-AUD-0181,West Bengal,Howrah,HIGHWAY,Mixed,12.19,44,2025-06-03,104,81,2025-08-23,In Progress,31,1,92,Completed,92,2.7,0
+WB-AUD-0182,West Bengal,North 24 Parganas,RAILWAY,Urban,4.3,43,2022-04-04,240,240,2022-11-30,Not Started,106,1,91,Completed,100,4.4,0
+WB-AUD-0183,West Bengal,Howrah,OTHER,Agricultural,4.05,37,2022-01-08,97,297,2022-11-01,Not Started,89,2,84,Completed,91,5.9,1
+WB-AUD-0184,West Bengal,North 24 Parganas,URBAN_DEVELOPMENT,Urban,2.86,27,2025-07-15,171,130,2025-11-22,In Progress,36,0,83,In Progress,83,6.6,0
+WB-AUD-0185,West Bengal,Hooghly,INDUSTRIAL_PARK,Wetland,3.42,23,2023-08-21,126,228,2024-04-05,Not Started,88,3,80,In Progress,75,4.7,1
+WB-AUD-0186,West Bengal,Howrah,INDUSTRIAL_PARK,Urban,10.09,54,2023-05-17,226,202,2023-12-05,Completed,0,1,62,In Progress,51,5.4,0
+WB-AUD-0187,West Bengal,Hooghly,HIGHWAY,Mixed,3.52,36,2026-04-12,255,446,2027-07-02,Not Started,165,4,52,In Progress,57,1.6,1
+WB-AUD-0188,West Bengal,Hooghly,RAILWAY,Mixed,14.15,34,2022-09-27,236,312,2023-08-05,Not Started,79,2,60,In Progress,56,4.0,1
+WB-AUD-0189,West Bengal,South 24 Parganas,INDUSTRIAL_PARK,Agricultural,4.57,30,2024-06-25,119,78,2024-09-11,Not Started,66,1,78,In Progress,71,6.4,0
+WB-AUD-0190,West Bengal,South 24 Parganas,RAILWAY,Mixed,12.63,51,2024-07-16,193,377,2025-07-28,Not Started,79,4,88,In Progress,73,3.7,1
+WB-AUD-0191,West Bengal,Kolkata,INFRASTRUCTURE,Urban,20.09,98,2024-11-14,182,163,2025-04-26,Disputed,60,1,86,In Progress,84,4.3,0
+WB-AUD-0192,West Bengal,Hooghly,INFRASTRUCTURE,Agricultural,9.15,42,2024-09-11,137,225,2025-04-24,Not Started,98,1,87,In Progress,67,4.7,1
+WB-AUD-0193,West Bengal,North 24 Parganas,INFRASTRUCTURE,Mixed,4.2,28,2024-05-05,185,304,2025-03-05,Not Started,83,3,58,Not Started,1,1.7,1
+WB-AUD-0194,West Bengal,South 24 Parganas,INDUSTRIAL_PARK,Agricultural,33.12,115,2026-01-08,215,394,2027-02-06,Disputed,101,3,89,In Progress,79,4.3,1
+WB-AUD-0195,West Bengal,South 24 Parganas,HIGHWAY,Urban,13.91,41,2023-05-03,119,99,2023-08-10,In Progress,49,2,80,Completed,85,4.7,0
+WB-AUD-0196,West Bengal,Kolkata,INDUSTRIAL_PARK,Wetland,6.14,36,2022-05-11,236,206,2022-12-03,In Progress,53,2,74,In Progress,51,6.6,0
+WB-AUD-0197,West Bengal,North 24 Parganas,INFRASTRUCTURE,Urban,4.68,25,2022-04-03,189,145,2022-08-26,Not Started,85,2,54,In Progress,67,8.5,0
+WB-AUD-0198,West Bengal,Kolkata,INFRASTRUCTURE,Urban,7.96,40,2025-05-21,208,193,2025-11-30,In Progress,35,2,66,In Progress,64,4.6,0
+WB-AUD-0199,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Urban,12.92,40,2023-07-27,94,48,2023-09-13,Not Started,58,3,73,In Progress,52,5.1,0
+WB-AUD-0200,West Bengal,Hooghly,RAILWAY,Agricultural,64.08,225,2023-10-20,150,215,2024-05-22,Not Started,84,3,71,In Progress,61,2.0,1
+WB-AUD-0201,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,4.19,27,2024-01-22,161,227,2024-09-05,Not Started,66,5,47,In Progress,51,4.4,1
+WB-AUD-0202,West Bengal,Howrah,INDUSTRIAL,Mixed,21.89,85,2023-10-17,90,180,2024-04-14,Not Started,123,5,70,Completed,89,7.8,1
+WB-AUD-0203,West Bengal,Howrah,INFRASTRUCTURE,Urban,3.49,31,2026-01-16,267,244,2026-09-17,In Progress,50,2,72,In Progress,83,4.9,0
+WB-AUD-0204,West Bengal,Kolkata,HIGHWAY,Urban,68.85,223,2025-04-26,214,252,2026-01-03,Not Started,78,4,75,Completed,91,2.4,1
+WB-AUD-0205,West Bengal,Hooghly,POWER,Agricultural,1.25,11,2025-09-20,288,559,2027-04-02,Not Started,113,4,81,Completed,87,6.4,1
+WB-AUD-0206,West Bengal,Hooghly,HIGHWAY,Agricultural,5.62,28,2023-04-25,158,266,2024-01-16,Not Started,98,3,75,Completed,86,4.7,1
+WB-AUD-0207,West Bengal,Hooghly,HIGHWAY,Mixed,6.0,16,2023-07-12,138,73,2023-09-23,In Progress,45,0,49,In Progress,72,8.1,0
+WB-AUD-0208,West Bengal,Kolkata,INFRASTRUCTURE,Urban,3.2,31,2023-03-05,137,393,2024-04-01,Not Started,119,3,78,In Progress,67,4.8,1
+WB-AUD-0209,West Bengal,Howrah,URBAN_DEVELOPMENT,Mixed,2.9,35,2026-02-13,133,69,2026-04-23,In Progress,13,1,67,Completed,86,7.7,0
+WB-AUD-0210,West Bengal,Kolkata,POWER,Urban,21.45,85,2025-04-28,96,30,2025-05-28,Completed,0,1,81,In Progress,75,6.1,0
+WB-AUD-0211,West Bengal,Hooghly,HIGHWAY,Urban,12.99,59,2022-05-21,195,187,2022-11-24,Not Started,62,0,70,In Progress,75,2.8,0
+WB-AUD-0212,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Urban,6.88,26,2025-12-07,218,188,2026-06-13,Disputed,81,3,75,Completed,100,8.4,0
+WB-AUD-0213,West Bengal,South 24 Parganas,INFRASTRUCTURE,Urban,22.5,82,2024-11-11,163,103,2025-02-22,In Progress,34,1,84,Completed,97,7.3,0
+WB-AUD-0214,West Bengal,Kolkata,RAILWAY,Mixed,8.61,33,2026-08-05,234,188,2027-02-09,In Progress,21,1,60,In Progress,50,6.4,0
+WB-AUD-0215,West Bengal,Howrah,OTHER,Agricultural,2.55,26,2024-05-25,232,264,2025-02-13,Not Started,118,5,67,In Progress,76,3.3,1
+WB-AUD-0216,West Bengal,Hooghly,URBAN_DEVELOPMENT,Agricultural,9.93,54,2024-02-27,129,84,2024-05-21,In Progress,54,1,77,In Progress,63,4.2,0
+WB-AUD-0217,West Bengal,North 24 Parganas,RAILWAY,Agricultural,1.2,24,2023-08-08,191,126,2023-12-12,In Progress,36,3,79,In Progress,82,8.7,0
+WB-AUD-0218,West Bengal,South 24 Parganas,HIGHWAY,Agricultural,8.65,36,2024-03-08,257,190,2024-09-14,Completed,0,1,100,In Progress,49,5.7,0
+WB-AUD-0219,West Bengal,Hooghly,URBAN_DEVELOPMENT,Agricultural,2.18,45,2023-08-17,220,189,2024-02-22,Not Started,64,1,59,In Progress,61,5.5,0
+WB-AUD-0220,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Urban,3.01,28,2023-04-10,94,184,2023-10-11,Not Started,106,5,79,In Progress,61,6.9,1
+WB-AUD-0221,West Bengal,North 24 Parganas,INDUSTRIAL_PARK,Agricultural,4.8,32,2022-02-22,205,313,2023-01-01,Completed,3,1,61,In Progress,78,4.5,1
+WB-AUD-0222,West Bengal,South 24 Parganas,HIGHWAY,Mixed,3.2,33,2025-07-17,257,362,2026-07-14,Not Started,149,5,69,Not Started,31,2.2,1
+WB-AUD-0223,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,21.4,92,2025-04-15,181,153,2025-09-15,Not Started,66,0,50,In Progress,56,7.2,0
+WB-AUD-0224,West Bengal,North 24 Parganas,INFRASTRUCTURE,Mixed,0.88,9,2025-10-20,115,91,2026-01-19,In Progress,32,1,52,In Progress,67,9.1,0
+WB-AUD-0225,West Bengal,Hooghly,INDUSTRIAL_PARK,Mixed,6.07,41,2022-08-31,267,412,2023-10-17,Not Started,71,3,68,In Progress,65,5.4,1
+WB-AUD-0226,West Bengal,Howrah,INFRASTRUCTURE,Mixed,4.54,33,2022-09-25,197,238,2023-05-21,Not Started,106,3,87,In Progress,72,4.7,1
+WB-AUD-0227,West Bengal,Hooghly,HIGHWAY,Wetland,3.03,33,2025-11-09,110,209,2026-06-06,Not Started,70,3,66,In Progress,66,8.5,1
+WB-AUD-0228,West Bengal,Kolkata,RAILWAY,Urban,3.15,15,2022-12-29,276,251,2023-09-06,In Progress,28,0,42,In Progress,82,6.2,0
+WB-AUD-0229,West Bengal,Hooghly,INDUSTRIAL_PARK,Urban,1.03,15,2023-06-21,201,189,2023-12-27,Not Started,82,1,55,In Progress,68,3.5,0
+WB-AUD-0230,West Bengal,Kolkata,INFRASTRUCTURE,Urban,10.72,30,2025-01-14,119,48,2025-03-03,In Progress,22,1,56,Not Started,33,4.5,0
+WB-AUD-0231,West Bengal,North 24 Parganas,HIGHWAY,Wetland,57.95,151,2023-02-09,141,340,2024-01-15,In Progress,48,2,46,Completed,87,3.6,1
+WB-AUD-0232,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Mixed,5.58,12,2023-05-02,145,403,2024-06-08,Not Started,76,1,78,In Progress,82,3.9,1
+WB-AUD-0233,West Bengal,Howrah,URBAN_DEVELOPMENT,Urban,2.19,31,2026-03-19,172,343,2027-02-25,Not Started,74,2,95,In Progress,73,5.9,1
+WB-AUD-0234,West Bengal,South 24 Parganas,INDUSTRIAL,Urban,3.2,25,2025-01-28,140,198,2025-08-14,Not Started,115,5,72,In Progress,50,6.9,1
+WB-AUD-0235,West Bengal,Hooghly,INDUSTRIAL_PARK,Urban,2.25,32,2026-03-28,276,203,2026-10-17,In Progress,44,2,77,In Progress,57,6.1,0
+WB-AUD-0236,West Bengal,Kolkata,HIGHWAY,Mixed,12.25,46,2024-03-06,203,348,2025-02-17,Not Started,108,2,55,In Progress,45,4.3,1
+WB-AUD-0237,West Bengal,North 24 Parganas,HIGHWAY,Agricultural,96.99,313,2023-05-17,214,416,2024-07-06,Not Started,109,2,58,In Progress,64,6.7,1
+WB-AUD-0238,West Bengal,Hooghly,INDUSTRIAL,Agricultural,9.25,43,2023-08-26,272,398,2024-09-27,Not Started,149,6,57,In Progress,50,5.2,1
+WB-AUD-0239,West Bengal,Howrah,HIGHWAY,Agricultural,8.22,36,2025-09-14,223,183,2026-03-16,In Progress,49,0,62,In Progress,71,6.3,0
+WB-AUD-0240,West Bengal,Howrah,HIGHWAY,Mixed,20.0,70,2022-04-01,91,52,2022-05-23,In Progress,11,0,75,In Progress,73,5.0,0
+WB-AUD-0241,West Bengal,Hooghly,HIGHWAY,Agricultural,0.58,36,2026-06-24,132,234,2027-02-13,Not Started,101,3,30,Completed,85,6.7,1
+WB-AUD-0242,West Bengal,Howrah,INFRASTRUCTURE,Wetland,17.6,63,2022-10-11,104,273,2023-07-11,Not Started,75,2,53,In Progress,80,7.0,1
+WB-AUD-0243,West Bengal,North 24 Parganas,RAILWAY,Urban,18.03,43,2025-06-22,283,224,2026-02-01,In Progress,46,0,80,In Progress,62,5.0,0
+WB-AUD-0244,West Bengal,South 24 Parganas,RAILWAY,Agricultural,3.18,34,2022-11-22,295,294,2023-09-12,In Progress,26,1,77,In Progress,69,7.7,0
+WB-AUD-0245,West Bengal,South 24 Parganas,URBAN_DEVELOPMENT,Agricultural,6.81,50,2025-05-29,173,163,2025-11-08,In Progress,53,1,55,In Progress,72,10.0,0
+WB-AUD-0246,West Bengal,South 24 Parganas,INFRASTRUCTURE,Agricultural,6.46,48,2026-07-18,131,63,2026-09-19,Not Started,58,1,78,Completed,88,4.8,0
+WB-AUD-0247,West Bengal,South 24 Parganas,OTHER,Urban,1.57,30,2025-10-20,285,458,2027-01-21,Not Started,96,5,70,In Progress,53,3.1,1
+WB-AUD-0248,West Bengal,Hooghly,HIGHWAY,Agricultural,8.09,42,2025-08-21,117,39,2025-09-29,Disputed,82,2,78,Completed,87,9.3,0
+WB-AUD-0249,West Bengal,South 24 Parganas,INDUSTRIAL,Mixed,1.12,19,2025-03-15,263,445,2026-06-03,Not Started,83,2,80,In Progress,65,5.5,1
+WB-AUD-0250,West Bengal,South 24 Parganas,INDUSTRIAL,Urban,6.44,32,2026-03-21,206,154,2026-08-22,In Progress,42,0,100,Completed,88,5.0,0
